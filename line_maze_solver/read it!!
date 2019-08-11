@@ -1,0 +1,2 @@
+The short_path code is to be attached to at the end of line_maze_solver if you want to implement maze solver.
+If you just want a line follower using PID just use the first code.
